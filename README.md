@@ -1,9 +1,8 @@
-Hi there, I'm Olga Shevtsova!
-About me:
-1) Graduated from Yandex.Practicum courses Data Analytics in Mar 2023
-2) Loves working with numbers and learning new skills
-3) Have skills like SQL, Python, Tableau, Excel
-
+Доброго времени суток! Меня зовут Шевцова Ольга
+Немного обо мне:
+1) Закончила курсы Аналитик Данных Яндекс.Практикума в Марте 2023
+2) Люблю работать с числами и приобретать новые навыки
+3) Владею SQL, Python, Tableau, Excel
 
 
 | Название проекта  | Навыки и инструменты | Сферы деятельности| Ссылка|
