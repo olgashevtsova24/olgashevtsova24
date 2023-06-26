@@ -8,5 +8,5 @@ About me:
 
 | Название проекта  | Навыки и инструменты | Сферы деятельности| Ссылка|
 | ------------- | ------------- |-----|-----|
-| Продажа квартир в Санкт-Петербурге — анализ рынка недвижимости| Python, Pandas, Matplotlib, исследовательский анализ данных, визуализация данных, предобработка данных  | Интернет-сервисы, Площадки объявлений | [GitHub Pages]([https://pages.github.com/](https://github.com/olgashevtsova24/olgashevtsova24/blob/main/Исследовательский_анализ_данных.ipynb)https://github.com/olgashevtsova24/olgashevtsova24/blob/main/Исследовательский_анализ_данных.ipynb).
+| Продажа квартир в Санкт-Петербурге — анализ рынка недвижимости| Python, Pandas, Matplotlib, исследовательский анализ данных, визуализация данных, предобработка данных  | Интернет-сервисы, Площадки объявлений | https://github.com/olgashevtsova24/olgashevtsova24/blob/main/Исследовательский_анализ_данных.ipynb].
 | Content Cell  | Content Cell  |
